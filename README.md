@@ -1,7 +1,7 @@
 # schofe-flexible
 同amfe-flexible，加入了横屏时的处理
 
-[Classic edition (0.3.2)](https://github.com/Scholar-g/schofe-flexible.git)
+[github：](https://github.com/Scholar-g/schofe-flexible.git)
 
 ## Usage
 
